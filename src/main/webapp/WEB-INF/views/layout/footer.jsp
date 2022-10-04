@@ -1,3 +1,5 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+
 </div>
 <footer class="footer">
     <div class="d-sm-flex justify-content-center justify-content-sm-between">
