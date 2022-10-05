@@ -14,4 +14,10 @@ public class testController {
     public String recruit() {
         return "page/recruit/detail";
     }
+
+    @GetMapping("/write")
+    public String write() {
+        return "page/recruit/writeForm";
+    }
+
 }
