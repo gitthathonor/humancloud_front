@@ -14,15 +14,15 @@
 
 
             <div class="col-md-8  transparent">
-                <div class="col-md-12 mb-5 col-xl-3 d-flex flex-column justify-content-start">
-                    <div class="ml-xl-4 mt-3">
-                        <p class="card-title">Detailed Reports</p>
-                        <h2 class="text-primary">기업명이 들어오면 되는 곳곳곳곳곳ㄱ속속솏곳곳곳곳</h2>
-                    </div>
+                <div class=" ">
+
+                    <p class="card-title">Detailed Reports</p>
+                    <h2 class="text-primary">기업명이 들어오면 되는 곳곳곳곳곳ㄱ속속솏곳곳곳곳</h2>
+
                 </div>
 
-                <div class="col-md-12 col-xl-3 d-flex flex-column justify-content-start">
-                    <div class="ml-xl-4 mt-3">
+                <div class=" ">
+                    <div class="mt-5">
                         <p class="">간략한 설명들이 들어서는 곳곳곳곳곳ㄱ속속솏곳곳곳곳</p>
                     </div>
                 </div>
@@ -89,7 +89,7 @@
         <hr />
 
         <div class="row">
-            <div class="card">
+            <div class="card" style="width: 100%;">
                 <div class="card-body">
                     <div class="d-flex justify-content">
                         <p class="card-title"></p>
@@ -104,13 +104,13 @@
 
         <hr />
         <div class="row">
-            <div class="card">
+            <div class="card" style="width: 100%;">
                 <div class="card-body">
                     <p class="card-title">이 기업의 다른 공고</p>
 
                     <div class="dataTables_wrapper ">
 
-                        <table class="display expandable-table dataTable no-footer">
+                        <table class="display expandable-table dataTable no-footer" style="width: 100%;">
                             <thead>
                                 <tr role="row">
                                     <!-- sorting_desc / sorting_asc 으로 해가지고 Ajax 로 ORDER BY 하는거 하면 리스트 정렬 가능-->
