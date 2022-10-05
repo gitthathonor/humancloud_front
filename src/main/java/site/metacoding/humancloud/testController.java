@@ -9,9 +9,4 @@ public class testController {
     public String test() {
         return "page/main";
     }
-
-    @GetMapping("/resume")
-    public String test1() {
-        return "page/resume/resumeSaveForm";
-    }
 }
