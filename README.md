@@ -32,3 +32,15 @@ vscode 톰캣 익스텐션 지원 안 함으로 내장 톰캣 자체에 한글 �
 * page > index  [내용작성] 부분에 바디 넣으면 됨
 
 
+<<<<<<< HEAD
+=======
+# 유저 더미 데이터 추가
+```sql
+insert into user(username, password, name, email, phone_number, category, created_at)
+values ('ssar', '123', '구직자', 'aa@nn.nn', '01099991111', '웹개발자', now());
+insert into user(username, password, name, email, phone_number, category, created_at)
+values ('cos', '123', '김직자', 'bb@nn.nn', '01022221111', '자바개발자', now());
+insert into user(username, password, name, email, phone_number, category, created_at)
+values ('nol', '123', '이직자', 'cc@nn.nn', '01033331111', '프론트개발자', now());
+```
+>>>>>>> 636a4acd2b3b171d0ca2a9394ae005f767d3bdfb

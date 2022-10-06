@@ -2,7 +2,6 @@
 <%@ include file="../../layout/header.jsp" %>
                     <div class="row">
                         <%@ include file="profile.jsp" %>
-
                         <div class="col-md-9 grid-margin stretch-card">
                             <div class="card ">
                                 <div class="card-body my-5">

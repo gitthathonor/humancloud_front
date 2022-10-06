@@ -21,4 +21,4 @@
 <div class="container-fluid page-body-wrapper">
 <%@ include file="../nav/menu.jsp" %>
 <div class="main-panel">
-<div class="content-wrapper">
+<div class="content-wrapper "  style="background:#e6eaef">
