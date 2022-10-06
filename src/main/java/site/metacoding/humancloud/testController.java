@@ -7,6 +7,11 @@ import org.springframework.web.bind.annotation.GetMapping;
 public class testController {
     @GetMapping("/")
     public String test(){
-        return "page/user/userRegisterForm";
+        return "page/list/listBasic";
+    }
+
+    @GetMapping("/a")
+    public String test2(){
+        return "page/main";
     }
 }
