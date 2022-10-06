@@ -13,16 +13,16 @@
                                     </div>
                                     <div class="p-3 border-bottom">
                                         <div class="d-flex  justify-content-around">
-                                            <div class=" font-weight-bold m-2">관심있음</div>
-                                            <div class=" font-weight-bold">0</div>
+                                            <div class="  m-2">관심있음</div>
+                                            <div class=" font-weight-bold my-1">0</div>
                                         </div>
                                         <div class="d-flex  justify-content-around">
-                                            <div class=" font-weight-bold m-2">열람</div>
-                                            <div class=" font-weight-bold">0</div>
+                                            <div class=" my-2">열람</div>
+                                            <div class=" font-weight-bold my-1">0</div>
                                         </div>
                                         <div class="d-flex  justify-content-around">
-                                            <div class=" font-weight-bold m-2">받은 제안</div>
-                                            <div class=" font-weight-bold">0</div>
+                                            <div class=" m-2">받은 제안</div>
+                                            <div class=" font-weight-bold my-1">0</div>
                                         </div>
                                     </div>
                                     <div class="py-3 px-3 text-center">
@@ -37,11 +37,23 @@
                             <div class="card ">
                                 <div class="card-body my-5">
                                     <h4 class="m-3 text-primary">지원 현황</h4>
-                                    <div class="row bg-primary rounded m-2 p-5 text-center text-white">
-                                        <div class="col">d</div>
-                                        <div class="col">d</div>
-                                        <div class="col">d</div>
-                                        <div class="col">d</div>
+                                    <div class="row rounded m-2 p-5 text-center  border">
+                                        <div class="col border-right">
+                                            <div class="display-2">0</div>
+                                            <div>지원 완료</div>
+                                        </div>
+                                        <div class="col border-right">
+                                            <div class="display-2">0</div>
+                                            <div>이력서 열람</div>
+                                        </div>
+                                        <div class="col border-right">
+                                            <div class="display-2">0</div>
+                                            <div>최종합격</div>
+                                        </div>
+                                        <div class="col">
+                                            <div class="display-2">0</div>
+                                            <div>불합격</div>
+                                        </div>
                                     </div>
                                     <div class="my-5">
                                     <h4 class="m-3 text-primary">프로필</h4>
@@ -49,11 +61,11 @@
                                     </div>
                                     <div class="my-5">
                                     <h4 class="m-3 text-primary">추천</h4>
-                                    <div class="row">
-                                        <div class="col">기업</div>
-                                        <div class="col">기업</div>
-                                        <div class="col">기업</div>
-                                        <div class="col">기업</div>
+                                    <div class="row d-flex justify-content-center">
+                                        <div class="m-3 p-3 col-2 border">기업</div>
+                                        <div class="m-3 p-3 col-2 border">기업</div>
+                                        <div class="m-3 p-3 col-2 border">기업</div>
+                                        <div class="m-3 p-3 col-2 border">기업</div>
                                     </div>
                                     </div>
                                 </div>
